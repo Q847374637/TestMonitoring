@@ -1,0 +1,8 @@
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\bin\Debug\TestMonitoring.exe.config
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\bin\Debug\TestMonitoring.exe
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\bin\Debug\TestMonitoring.pdb
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\obj\Debug\TestMonitoring.csproj.AssemblyReference.cache
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\obj\Debug\TestMonitoring.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\obj\Debug\TestMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\obj\Debug\TestMonitoring.exe
+C:\Users\AAVolosatova\source\repos\TestMonitoring\TestMonitoring\obj\Debug\TestMonitoring.pdb
